@@ -1,7 +1,7 @@
 <div>
     @if ($sunny)
-        Il fait beau
+    <!--    Il fait beau -->
     @else
-        Il fait mauvais
+    <!--        Il fait mauvais -->
     @endif
 </div>
